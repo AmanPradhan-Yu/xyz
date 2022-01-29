@@ -30,7 +30,7 @@ sl = [ 1 , 2 , 3 , 4 , 5 , 6 , 7 ]
 print ( " JOB LIST " )
 print ( "-----------" )
 for i in range ( 7 ) :
-	print ( " Sl NO. " , sl[i] , " Start Time " , start[i] , " end time " , end[i]   )
+	print ( " Sl NO " , sl[i] , " Start Time " , start[i] , " end time " , end[i]   )
 
 
 for i in range ( 6 ) :
